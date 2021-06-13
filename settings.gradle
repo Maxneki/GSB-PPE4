@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "GSB PPE4 V.U"

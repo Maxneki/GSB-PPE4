@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "847479172759",
+    "project_id": "gsb-ppe4-v-ultime",
+    "storage_bucket": "gsb-ppe4-v-ultime.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:847479172759:android:fc0216b4ba8d8f4ed003d2",
+        "android_client_info": {
+          "package_name": "com.example.gsbppe4vu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "847479172759-1ft28kuc66gj8skj91inpjghfe1cq7iv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBO9COIt6pqm6_fZyuuTw6CanHWt1wTTO4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "847479172759-1ft28kuc66gj8skj91inpjghfe1cq7iv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
